@@ -1,0 +1,285 @@
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll.config
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.pdb
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Web.Infrastructure.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\WebGrease.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.pdb
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.dll
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.pdb
+F:\BASIS_2\part8 ASP.NET MVC\Our Project\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csprojResolveAssemblyReference.cache
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.pdb
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll.config
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.pdb
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Web.Infrastructure.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Owin.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\WebGrease.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.pdb
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\WebActivatorEx.dll
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.Migrations.InitialCreate.resources
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csproj.GenerateResource.Cache
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.Migrations.version1.resources
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.Migrations.version2.resources
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csprojResolveAssemblyReference.cache
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.Migrations.version3.resources
+F:\BASIS_2\part8 ASP.NET MVC\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.Migrations.version4.resources
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll.config
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.pdb
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Owin.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\WebActivatorEx.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\WebGrease.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Helpers.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Mvc.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Optimization.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.Razor.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.pdb
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csprojResolveAssemblyReference.cache
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.dll
+C:\Users\Saif\Desktop\UniversityManagementMVCandEF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.pdb
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll.config
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.pdb
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Web.Infrastructure.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Owin.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Helpers.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Mvc.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Optimization.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Razor.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\WebActivatorEx.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\WebGrease.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Helpers.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Mvc.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Optimization.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Razor.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.pdb
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csprojResolveAssemblyReference.cache
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.dll
+D:\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\UniversityManagementMVCandEF.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\WebActivatorEx.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Projects of OOP 50th Batch\Projects of OOP 50th Batch\Austian\UniversityManagementMVC&EF\UniversityManagementMVCandEF\obj\Debug\UniversityManagementMVCandEF.pdb
